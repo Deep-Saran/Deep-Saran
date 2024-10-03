@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deep-Saran
-- 👀 I’m an Aspiring Roboticist
-- 🌱 I’m currently working on Computational HRI (Human Robot Interaction)
+- 👀 I’m an Human Robot Interaction (HRI) researcher
+- 🌱 I’m currently working on Computational HRI 
 - 💞️ If you want to collaborate email me at dmasanam@ucsd.edu
 
 <!---
